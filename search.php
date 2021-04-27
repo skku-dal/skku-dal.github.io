@@ -6,9 +6,9 @@
 <meta name="referrer" content="same-origin">
 <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 <script>!function(){var A=new Image;A.onload=A.onerror=function(){1==A.height&&(document.documentElement.className+=" webp")},A.src="data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAD8D+JaQAA3AA/ua1AAA"}();</script>
-<link rel="stylesheet" href="css/site.92c872.css" type="text/css">
+<link rel="stylesheet" href="css/site.8ce669.css" type="text/css">
 <!--[if lte IE 7]>
-<link rel="stylesheet" href="css/site.92c872-lteIE7.css" type="text/css">
+<link rel="stylesheet" href="css/site.8ce669-lteIE7.css" type="text/css">
 <![endif]-->
 </head>
 <body id="b1">
@@ -192,23 +192,23 @@
 <div class="ps1 v1 s1">
 <div class="v2 ps2 s20 c1">
 <div class="v2 ps2 s20 w1">
-<div class="v3 ps3 s3 c73">
-<ul class="menu-dropdown-1 v4 ps2 s4 m1" id="m2">
+<div class="v3 ps3 s3 c71">
+<ul class="menu-dropdown-1 v4 ps2 s4 m1" id="m1">
 <li class="v2 ps2 s4 mit1">
 <div class="menu-content mcv1">
-<div class="v5 ps4 s5 c74">
+<div class="v5 ps4 s5 c72">
 <div class="v2 ps5 s6 c4">
 <p class="p1 f1">Menu</p>
 </div>
 </div>
 </div>
-<ul class="menu-dropdown v6 ps2 s7 m2" id="m1">
+<ul class="menu-dropdown v6 ps2 s7 m2" id="m2">
 <li class="v2 ps2 s8 mit1">
-<a href="index.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s9 c75"><div class="v2 ps6 s10 c6"><p class="p1 f2">Home</p></div></div></div></a>
+<a href="index.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s9 c73"><div class="v2 ps6 s10 c6"><p class="p1 f2">Home</p></div></div></div></a>
 </li>
 <li class="v2 ps2 s8 mit1">
 <div class="menu-content mcv2">
-<div class="v2 ps2 s9 c76">
+<div class="v2 ps2 s9 c74">
 <div class="v2 ps6 s10 c6">
 <p class="p1 f2">Members</p>
 </div>
@@ -216,37 +216,39 @@
 </div>
 <ul class="menu-dropdown v7 ps7 s11 m1">
 <li class="v2 ps2 s12 mit1">
-<a href="faculty.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s13 c77"><div class="v2 ps6 s14 c6"><p class="p1 f2">Faculty</p></div></div></div></a>
+<a href="faculty.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s13 c75"><div class="v2 ps6 s14 c6"><p class="p1 f2">Faculty</p></div></div></div></a>
 </li>
 <li class="v2 ps2 s12 mit1">
-<a href="students.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s13 c78"><div class="v2 ps6 s14 c6"><p class="p1 f2">Students</p></div></div></div></a>
+<a href="students.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s13 c76"><div class="v2 ps6 s14 c6"><p class="p1 f2">Students</p></div></div></div></a>
 </li>
 </ul>
 </li>
 <li class="v2 ps2 s8 mit1">
-<a href="projects.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s9 c79"><div class="v2 ps6 s10 c6"><p class="p1 f2">Projects</p></div></div></div></a>
+<a href="projects.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s9 c77"><div class="v2 ps6 s10 c6"><p class="p1 f2">Projects</p></div></div></div></a>
 </li>
 <li class="v2 ps2 s8 mit1">
-<a href="publications.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s9 c80"><div class="v2 ps6 s10 c6"><p class="p1 f2">Publications</p></div></div></div></a>
+<a href="publications.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s9 c78"><div class="v2 ps6 s10 c6"><p class="p1 f2">Publications</p></div></div></div></a>
 </li>
 <li class="v2 ps2 s8 mit1">
-<a href="contact.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s9 c81"><div class="v2 ps6 s10 c6"><p class="p1 f2">Contact</p></div></div></div></a>
+<a href="contact.html" class="ml1"><div class="menu-content mcv2"><div class="v2 ps2 s9 c79"><div class="v2 ps6 s10 c6"><p class="p1 f2">Contact</p></div></div></div></a>
 </li>
 </ul>
 </li>
 </ul>
 </div>
-<div class="v5 ps8 s15 c82"></div>
-<div class="v7 ps9 s16 c83"></div>
+<div class="v5 ps8 s15 c80">
+<div class="v7 ps9 s16 c81"></div>
+</div>
+<div class="v7 ps9 s16 c82"></div>
 </div>
 </div>
-<div class="v2 ps14 s30 c84">
+<div class="v2 ps14 s30 c83">
 <h2 class="p2 f4">Search results for &quot;<span class="f4"></span>&quot;</h2>
 </div>
-<div class="v7 ps9 s16 c85"></div>
-<div class="v2 ps20 s31 c1">
+<div class="v7 ps9 s16 c84"></div>
+<div class="v2 ps23 s31 c1">
 <div class="v2 ps2 s31 w1">
-<div class="v2 ps2 s31 c86">
+<div class="v2 ps2 s31 c85">
 <?php
     function rev_string(string $string) {
         global $mb;
@@ -278,14 +280,14 @@
     }
 
     if(count($searchResults) == 0) {
-        $result = '<div class="v2 ps21 s32 c87"><div class="v2 ps22 s33 c88"><p class="p2 f12">{title}</p></div><div class="v2 ps22 s34 c89"><p class="p2 f12">{text}</p></div></div>';
+        $result = '<div class="v2 ps24 s32 c86"><div class="v2 ps25 s33 c87"><p class="p2 f12">{title}</p></div><div class="v2 ps25 s34 c88"><p class="p2 f12">{text}</p></div></div>';
         $result = str_replace('{title}', htmlentities('No search result'), $result);
         $result = str_replace('{text}', '', $result);
         echo $result;
     }
     else {
         foreach($searchResults as $searchResult) {
-            $result = '<div class="v2 ps21 s32 c87"><div class="v2 ps22 s33 c88"><p class="p2 f12">{title}</p></div><div class="v2 ps22 s34 c89"><p class="p2 f12">{text}</p></div></div>';
+            $result = '<div class="v2 ps24 s32 c86"><div class="v2 ps25 s33 c87"><p class="p2 f12">{title}</p></div><div class="v2 ps25 s34 c88"><p class="p2 f12">{text}</p></div></div>';
             $result = str_replace('{title}', '<a href="' . $searchResult['link'] . '">' . $searchResult['title'] . '</a>', $result);
 
             $text = "";
@@ -309,17 +311,16 @@
 ?>
 
 </div>
+<div class="v7 ps9 s16 c89"></div>
 <div class="v7 ps9 s16 c90"></div>
+</div>
+</div>
 <div class="v7 ps9 s16 c91"></div>
-<div class="v7 ps9 s16 c92"></div>
-</div>
-</div>
-<div class="v7 ps9 s16 c93"></div>
-<div class="v2 ps24 s35 c94">
-<div class="ps23">
+<div class="v2 ps27 s35 c92">
+<div class="ps26">
 <?php
 
-    $control = '<div class="v2 ps2 s36 c95" style="display:none"><a href="#" class="f13 btn1 v8 s37">&lt;&lt;</a></div>';
+    $control = '<div class="v2 ps2 s36 c93" style="display:none"><a href="#" class="f13 btn1 v8 s37">&lt;&lt;</a></div>';
     if($page > 1) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . ($page - 1);
         $control = str_replace('style="visibility:hidden"', '', $control);
@@ -332,7 +333,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c70" style="display:none"><a href="#" class="f13 btn2 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c94" style="display:none"><a href="#" class="f13 btn2 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 1 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -352,7 +353,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c96" style="display:none"><a href="#" class="f13 btn3 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c95" style="display:none"><a href="#" class="f13 btn3 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 2 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -372,7 +373,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c97" style="display:none"><a href="#" class="f13 btn4 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c96" style="display:none"><a href="#" class="f13 btn4 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 3 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -392,7 +393,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c98" style="display:none"><a href="#" class="f13 btn5 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c97" style="display:none"><a href="#" class="f13 btn5 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 4 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -412,7 +413,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c23" style="display:none"><a href="#" class="f13 btn6 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c23" style="display:none"><a href="#" class="f13 btn6 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 5 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -432,7 +433,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c56" style="display:none"><a href="#" class="f13 btn7 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c56" style="display:none"><a href="#" class="f13 btn7 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 6 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -452,7 +453,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c99" style="display:none"><a href="#" class="f13 btn8 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c98" style="display:none"><a href="#" class="f13 btn8 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 7 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -472,7 +473,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c2" style="display:none"><a href="#" class="f13 btn9 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c2" style="display:none"><a href="#" class="f13 btn9 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 8 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -492,7 +493,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c100" style="display:none"><a href="#" class="f13 btn10 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c99" style="display:none"><a href="#" class="f13 btn10 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 9 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -512,7 +513,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c101" style="display:none"><a href="#" class="f13 btn11 v8 s37">{page_num}</a></div>';
+    $control = '<div class="v2 ps28 s36 c100" style="display:none"><a href="#" class="f13 btn11 v8 s37">{page_num}</a></div>';
     $buttonPage = $start_page + 10 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -532,7 +533,7 @@
 
 <?php
 
-    $control = '<div class="v2 ps25 s36 c102" style="display:none"><a href="#" class="f13 btn12 v8 s37">&gt;&gt;</a></div>';
+    $control = '<div class="v2 ps28 s36 c101" style="display:none"><a href="#" class="f13 btn12 v8 s37">&gt;&gt;</a></div>';
     if($page < $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . ($page + 1);
         $control = str_replace('style="visibility:hidden"', '', $control);
@@ -552,9 +553,9 @@
 <script type="text/javascript" src="js/jqueryui.f44976.js"></script>
 <script type="text/javascript" src="js/menu.f44976.js"></script>
 <script type="text/javascript" src="js/menu-dropdown-animations.f44976.js"></script>
-<script type="text/javascript" src="js/menu-dropdown.92c872.js"></script>
-<script type="text/javascript" src="js/menu-dropdown-1.92c872.js"></script>
-<script type="text/javascript" src="js/search.92c872.js"></script>
+<script type="text/javascript" src="js/menu-dropdown.8ce669.js"></script>
+<script type="text/javascript" src="js/menu-dropdown-1.8ce669.js"></script>
+<script type="text/javascript" src="js/search.8ce669.js"></script>
 <script type="text/javascript">
 var ver=RegExp(/Mozilla\/5\.0 \(Linux; .; Android ([\d.]+)/).exec(navigator.userAgent);if(ver&&parseFloat(ver[1])<5){document.getElementsByTagName('body')[0].className+=' whitespacefix';}
 </script>
