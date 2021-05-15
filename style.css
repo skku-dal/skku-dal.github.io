@@ -366,11 +366,13 @@ h3{
 .timeline-title-right{
 	margin-bottom:5px;
 	color:#0096FF!important;
+	margin-top:3px;
 }
-.timeline-details-left{
+.timeline-title-left{
 	text-align:right;
 	margin-bottom:5px;
 	color:#0096FF!important;
+	margin-top:5px;
 }
 .timeline-period-column{
 	width:3px;
@@ -594,14 +596,22 @@ h3{
 h4{
 	font-size:22px;
 }
-.btn-style{
-	border-radius:14px 14px 14px 14px;
-}
 h5{
 	font-size:19px;
 }
 .pub-year-row{
 	margin-bottom:50px;
+}
+.btn-style{
+	border-radius:10px 10px 10px 10px;
+}
+.my-main-download-cv{
+	margin-top:10px;
+}
+.timeline-year-tmp{
+	width:100%;
+	margin-bottom:0px;
+	color:#000000!important;
 }
 
 /* = Colour
@@ -863,6 +873,8 @@ h5{
 	.timeline-group{
 		margin-bottom:6px;
 	}
+	.timeline-year{
+	}
 	
 }
 
@@ -920,6 +932,28 @@ h5{
 	}
 	.pub-year-row{
 		margin-bottom:30px;
+	}
+	.my-main-social{
+	}
+	.my-main-download-cv{
+	}
+	.timeline-info{
+		margin-right:auto;
+		margin-left:auto;
+	}
+	.edu-bs-row{
+		margin-right:auto;
+		margin-left:auto;
+	}
+	.edu-phd-row{
+		margin-right:auto;
+		margin-left:auto;
+	}
+	.edu-ms-row{
+		margin-right:auto;
+		margin-left:auto;
+	}
+	.timeline-vert{
 	}
 	
 	/* Mobile Text Margin Offsets */

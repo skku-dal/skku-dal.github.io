@@ -8,9 +8,9 @@
 	<meta name="robots" content="index, follow" />
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?1072">
-	<link rel="stylesheet" type="text/css" href="style.css?6448">
-	<link rel="stylesheet" type="text/css" href="./css/animate.min.css?5414">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css?6385">
+	<link rel="stylesheet" type="text/css" href="style.css?6043">
+	<link rel="stylesheet" type="text/css" href="./css/animate.min.css?6336">
 	<link rel="stylesheet" type="text/css" href="./css/all.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,800,300&display=swap&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <title>Faculty</title>
@@ -33,7 +33,7 @@
 <div class="page-container">
     
 <!-- my-nav -->
-<div class="bloc nav-blocs bgc-dark-jungle-green d-bloc" id="my-nav">
+<div class="bloc nav-blocs bgc-dark-jungle-green d-bloc sticky-nav" id="my-nav">
 	<div class="container bloc-no-padding-lg bloc-no-padding-md bloc-no-padding-sm bloc-no-padding">
 		<div class="row nav-rows">
 			<div class="col">
@@ -87,7 +87,7 @@
 				<h4 class="text-lg-center mg-clear text-md-center text-sm-center text-center" id="my-university">
 					Sungkyunkwan University
 				</h4>
-				<div><div class="social-link-bric text-center" bloc-name="my-social" id="my-social">
+				<div class="my-main-social"><div class="social-link-bric text-center" bloc-name="my-social" id="my-social">
 <a href="https://twitter.com/" class="twitter-link d-none " target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#38A1F3" viewBox="0 0 24 24"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"></path></svg></a>
 
 <a href="https://www.facebook.com/" class="facebook-link d-none " target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#3C5A99" viewBox="0 0 24 24"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"></path></svg></a>
@@ -103,7 +103,7 @@
 </div>
 				</div>
 				<div class="text-center">
-						<a href="index.html" class="btn btn-azure btn-style" id="download-cv">Download CV</a>
+						<a href="index.html" class="btn btn-azure my-main-download-cv btn-style" id="download-cv">Download CV</a>
 					</div>
 			</div>
 		</div>
@@ -136,7 +136,10 @@
 			<div class="col my-edu-timeline-column" id="my-edu-timeline-left">
 				<div class="row edu-ms-row" id="my-edu-ms">
 					<div class="col timeline-info">
-						<h4 class="mg-md timeline-details-left">
+						<h3 class="mg-md timeline-year-tmp text-lg-end text-end">
+							2010
+						</h3>
+						<h4 class="mg-md timeline-title-left">
 							M.S.
 						</h4>
 						<p class="timeline-divider">
@@ -160,27 +163,20 @@
 							</li>
 						</ul>
 					</div>
-					<div class="col align-self-center timeline-year">
-						<h3 class="mg-md timeline-year h3-margin-top">
-							2010
-						</h3>
-					</div>
 					<div class="col timeline-column align-self-center">
 					</div>
 				</div>
 			</div>
 			<div class="col timeline-vert">
 			</div>
-			<div class="col" id="my-edu-timeline-right">
+			<div class="col my-edu-timeline-column" id="my-edu-timeline-right">
 				<div class="row edu-phd-row" id="my-edu-phd">
 					<div class="col timeline-column align-self-center">
 					</div>
-					<div class="col align-self-center timeline-year">
-						<h3 class="mg-md timeline-year">
+					<div class="col timeline-info">
+						<h3 class="mg-md timeline-year-tmp">
 							2021
 						</h3>
-					</div>
-					<div class="col timeline-info">
 						<h4 class="mg-md timeline-title-right">
 							Ph.D
 						</h4>
@@ -209,12 +205,10 @@
 				<div class="row edu-bs-row" id="my-edu-bs">
 					<div class="col timeline-column align-self-center">
 					</div>
-					<div class="col align-self-center timeline-year">
-						<h3 class="mg-md timeline-year">
+					<div class="col timeline-info">
+						<h3 class="mg-md timeline-year-tmp">
 							2007
 						</h3>
-					</div>
-					<div class="col timeline-info">
 						<h4 class="mg-md timeline-title-right">
 							B.S.
 						</h4>
@@ -266,7 +260,10 @@
 			<div class="col" id="my-exp-timeline-left">
 				<div class="row exp-apple-row">
 					<div class="col align-self-center timeline-info">
-						<h4 class="mg-md timeline-details-left">
+						<h3 class="mg-md timeline-year-tmp text-lg-end text-end">
+							2019&nbsp;-&nbsp;2021
+						</h3>
+						<h4 class="mg-md timeline-title-left">
 							CAD Engineer
 						</h4>
 						<p class="timeline-divider">
@@ -285,17 +282,15 @@
 							</li>
 						</ul>
 					</div>
-					<div class="col timeline-year align-self-center">
-						<h3 class="mg-md timeline-year">
-							2021<br>-<br>2019
-						</h3>
-					</div>
 					<div class="col align-self-center timeline-period-column">
 					</div>
 				</div>
 				<div class="row exp-arm-row">
 					<div class="col timeline-info align-self-center">
-						<h4 class="mg-md timeline-details-left">
+						<h3 class="mg-md timeline-year-tmp text-lg-end text-end">
+							2015&nbsp;-&nbsp;2016
+						</h3>
+						<h4 class="mg-md timeline-title-left">
 							R&amp;D Intern
 						</h4>
 						<p class="timeline-divider">
@@ -314,17 +309,15 @@
 							</li>
 						</ul>
 					</div>
-					<div class="col timeline-year align-self-center">
-						<h3 class="mg-md timeline-year">
-							2016<br>-<br>2015
-						</h3>
-					</div>
 					<div class="col align-self-center timeline-period-column">
 					</div>
 				</div>
 				<div class="row exp-mtekvision-row">
 					<div class="col timeline-info align-self-center">
-						<h4 class="mg-md timeline-details-left">
+						<h3 class="mg-md timeline-year-tmp text-lg-end text-end">
+							2010&nbsp;-&nbsp;2013
+						</h3>
+						<h4 class="mg-md timeline-title-left">
 							Associate Research Engineer
 						</h4>
 						<p class="timeline-divider">
@@ -343,11 +336,6 @@
 							</li>
 						</ul>
 					</div>
-					<div class="col timeline-year align-self-center">
-						<h3 class="mg-md timeline-year">
-							2013<br>-<br>2010
-						</h3>
-					</div>
 					<div class="col align-self-center timeline-period-column">
 					</div>
 				</div>
@@ -358,12 +346,10 @@
 				<div class="row exp-skku-assitant-row">
 					<div class="col timeline-period-column bgc-azure">
 					</div>
-					<div class="col timeline-year align-self-center">
-						<h3 class="timeline-year mg-clear">
-							Present<br>-<br>2021
-						</h3>
-					</div>
 					<div class="col align-self-center timeline-info">
+						<h3 class="mg-clear timeline-year-tmp">
+							2021 - Present
+						</h3>
 						<h4 class="mg-md timeline-title-right">
 							Assistant Professor
 						</h4>
@@ -387,12 +373,10 @@
 				<div class="row exp-gatech-row">
 					<div class="col align-self-center timeline-period-column">
 					</div>
-					<div class="col timeline-year align-self-center">
-						<h3 class="mg-md timeline-year">
-							2019<br>-<br>2014
-						</h3>
-					</div>
 					<div class="col align-self-center timeline-info">
+						<h3 class="mg-md timeline-year-tmp">
+							2014&nbsp;-&nbsp;2019
+						</h3>
 						<h4 class="mg-md timeline-title-right">
 							Graduate Research Assistant
 						</h4>
@@ -416,12 +400,10 @@
 				<div class="row exp-snu-row">
 					<div class="col align-self-center timeline-period-column">
 					</div>
-					<div class="col timeline-year">
-						<h3 class="mg-md timeline-year">
-							2010<br>-<br>2007
-						</h3>
-					</div>
 					<div class="col align-self-center timeline-info">
+						<h3 class="mg-md timeline-year-tmp">
+							2007&nbsp;-&nbsp;2010
+						</h3>
 						<h4 class="mg-md timeline-title-right">
 							Graduate Research Assistant
 						</h4>
@@ -491,11 +473,6 @@
 							Grantor: The President of the Republic of Korea
 						</p>
 					</li>
-					<li>
-						<p>
-							<br>
-						</p>
-					</li>
 				</ul>
 			</div>
 			<div class="col award-column" id="award-koi-2002">
@@ -513,11 +490,6 @@
 							Grantor: Ministry of Science, ICT and Future Planning
 						</p>
 					</li>
-					<li>
-						<p>
-							<br>
-						</p>
-					</li>
 				</ul>
 			</div>
 			<div class="col award-column" id="award-koi-1996">
@@ -533,11 +505,6 @@
 					<li>
 						<p class="mg-clear">
 							Grantor: Ministry of Science, ICT and Future Planning
-						</p>
-					</li>
-					<li>
-						<p>
-							<br>
 						</p>
 					</li>
 				</ul>
@@ -558,8 +525,8 @@
 
 
 <!-- Additional JS -->
-<script src="./js/bootstrap.bundle.min.js?4350"></script>
-<script src="./js/blocs.min.js?1561"></script>
+<script src="./js/bootstrap.bundle.min.js?8761"></script>
+<script src="./js/blocs.min.js?9788"></script>
 <script src="./js/lazysizes.min.js" defer></script><!-- Additional JS END -->
 
 
