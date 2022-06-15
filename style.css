@@ -48,9 +48,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 
 /* Sizes */
 
-.bloc-md{
-	padding:50px 20px;
-}
 .bloc-sm{
 	padding:20px;
 }
@@ -297,19 +294,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	max-width:1140px;
 }
 .main-image{
-	width:600px;
+	width:300px;
 }
 h1{
 	color:#FEFFFF!important;
-	font-size:40px;
+	font-size:30px;
 }
 h2{
 	color:#FEFFFF!important;
-	font-size:34px;
+	font-size:26px;
 }
 p{
 	color:#FEFFFF!important;
-	font-size:16px;
+	font-size:12px;
 }
 .h2-divider{
 	background-size:auto auto;
@@ -322,7 +319,7 @@ p{
 }
 h3{
 	color:#FEFFFF!important;
-	font-size:28px;
+	font-size:20px;
 }
 .h3-divider{
 	height:2px;
@@ -432,10 +429,10 @@ h3{
 }
 .reseach-image{
 	background-size:400px 300px;
-	width:200px;
-	height:200px;
 	max-width:200px;
 	max-height:200px;
+	height:150px;
+	width:150px;
 }
 .research-items{
 	max-width:400px;
@@ -496,7 +493,7 @@ h3{
 	color:#D5D5D5!important;
 }
 .notice-items{
-	color:#000000!important;
+	color:#FFFFFF!important;
 }
 .project-items{
 	color:#000000!important;
@@ -543,8 +540,8 @@ h3{
 	max-width:80px;
 }
 .my-main-image{
-	width:220px;
-	height:220px;
+	width:150px;
+	height:150px;
 	max-width:220px;
 	max-height:220px;
 }
@@ -595,10 +592,10 @@ h3{
 	font-size:23px;
 }
 h4{
-	font-size:22px;
+	font-size:18px;
 }
 h5{
-	font-size:19px;
+	font-size:15px;
 }
 .pub-year-row{
 	margin-bottom:50px;
@@ -626,9 +623,6 @@ h5{
 .bgc-black{
 	background-color:#000000;
 }
-.bgc-lavender-web{
-	background-color:#EEE5FE;
-}
 .bgc-white-smoke{
 	background-color:#F5F5F5;
 }
@@ -638,6 +632,9 @@ h5{
 
 /* Text colour styles */
 
+.tc-white{
+	color:#FFFFFF!important;
+}
 .tc-black{
 	color:#000000!important;
 }
@@ -757,19 +754,19 @@ h5{
 @media (max-width: 991px){
 	h1{
 		color:#FEFFFF!important;
-		font-size:36px;
+		font-size:25px;
 	}
 	h2{
 		color:#FEFFFF!important;
-		font-size:31px;
+		font-size:24px;
 	}
 	p{
 		color:#FEFFFF!important;
-		font-size:15px;
+		font-size:11px;
 	}
 	h3{
 		color:#FEFFFF!important;
-		font-size:26px;
+		font-size:18px;
 	}
 	.main-image{
 		width:500px;
@@ -792,10 +789,10 @@ h5{
 		max-width:100%;
 	}
 	h4{
-		font-size:21px;
+		font-size:16px;
 	}
 	h5{
-		font-size:18px;
+		font-size:14px;
 	}
 	.timeline-affiliation{
 		margin-bottom:6px;
@@ -810,24 +807,33 @@ h5{
 	.pub-year-row{
 		margin-bottom:40px;
 	}
+	.reseach-image{
+		width:120px;
+		height:120px;
+	}
+	.my-main-image{
+		width:120px;
+		height:120px;
+	}
 	
 }
 
 @media (max-width: 767px){
 	h1{
 		color:#FEFFFF!important;
-		font-size:33px;
+		font-size:25px;
 	}
 	h2{
 		color:#FEFFFF!important;
-		font-size:29px;
+		font-size:22px;
 	}
 	p{
 		color:#FEFFFF!important;
+		font-size:11px;
 	}
 	h3{
 		color:#FEFFFF!important;
-		font-size:25px;
+		font-size:18px;
 	}
 	.main-image{
 		width:300px;
@@ -844,8 +850,8 @@ h5{
 	.nav-items{
 	}
 	.my-main-image{
-		width:160px;
-		height:160px;
+		width:120px;
+		height:120px;
 		max-width:160px;
 		max-height:160px;
 	}
@@ -854,16 +860,16 @@ h5{
 		min-width:100%;
 	}
 	.reseach-image{
-		width:180px;
-		height:180px;
+		width:120px;
+		height:120px;
 		max-width:180px;
 		max-height:180px;
 	}
 	h4{
-		font-size:21px;
+		font-size:16px;
 	}
 	h5{
-		font-size:18px;
+		font-size:14px;
 	}
 	h6{
 		font-size:15px;
@@ -890,19 +896,19 @@ h5{
 @media (max-width: 575px){
 	h1{
 		color:#FEFFFF!important;
-		font-size:25px;
+		font-size:22px;
 	}
 	h2{
 		color:#FEFFFF!important;
-		font-size:22px;
+		font-size:20px;
 	}
 	p{
 		color:#FEFFFF!important;
-		font-size:12px;
+		font-size:10px;
 	}
 	h3{
 		color:#FEFFFF!important;
-		font-size:19px;
+		font-size:16px;
 	}
 	.main-image{
 		width:200px;
@@ -910,8 +916,8 @@ h5{
 	.nav-toggle{
 	}
 	.reseach-image{
-		width:150px;
-		height:150px;
+		width:120px;
+		height:120px;
 		max-width:150px;
 		max-height:150px;
 	}
@@ -922,10 +928,10 @@ h5{
 		max-height:100px;
 	}
 	h4{
-		font-size:16px;
+		font-size:14px;
 	}
 	h5{
-		font-size:14px;
+		font-size:12px;
 	}
 	.my-edu-timeline-column{
 		padding-right:0px;
